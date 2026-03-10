@@ -10,5 +10,7 @@ Si el nombre ingresado no existe en el diccionario, el programa debe mostrar un 
 
 Desarrollado por:
 Yoel Coriat
+
 Maryane Holt
+
 Jose De Gracia
