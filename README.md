@@ -7,3 +7,8 @@ Crea un diccionario donde las claves sean los nombres de las personas (de la lis
 El programa debe solicitar al usuario que ingrese un nombre y luego mostrar la edad de esa persona, si está en el diccionario.
 
 Si el nombre ingresado no existe en el diccionario, el programa debe mostrar un mensaje indicando que la persona no fue encontrada.
+
+Desarrollado por:
+Yoel Coriat
+Maryane Holt
+Jose De Gracia
